@@ -20,5 +20,5 @@ Hi everyone, I'm excited to share my **Udemy homepage clone**, built using only 
 
 ## Code and Live Demo
 
-- **GitHub Repository:** [Link to your repository]  
-- **Live Demo:** [Link to your live website]
+- **GitHub Repository:**  https://github.com/Sornammal/Udemy-HomePage-Clone/tree/main
+- **Live Demo:** https://sornammal.github.io/Udemy-HomePage-Clone/
